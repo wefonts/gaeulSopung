@@ -1,1 +1,38 @@
 # gaeulSopung
+학교안심 가을소풍체
+
+<pre>
+@font-face {
+    font-family: "gaeulSopung";
+    font-weight: 300;
+    font-style: normal;
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/gaeulSopung/gaeulSopung-Light.eot");
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/gaeulSopung/gaeulSopung-Light.eot?#iefix") format("embedded-opentype"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/gaeulSopung/gaeulSopung-Light.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/gaeulSopung/gaeulSopung-Light.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/gaeulSopung/gaeulSopung-Light.ttf") format("truetype");
+    font-display: swap;
+} 
+@font-face {
+    font-family: "gaeulSopung";
+    font-weight: 700;
+    font-style: normal;
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/gaeulSopung/gaeulSopung-Bold.eot");
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/gaeulSopung/gaeulSopung-Bold.eot?#iefix") format("embedded-opentype"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/gaeulSopung/gaeulSopung-Bold.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/gaeulSopung/gaeulSopung-Bold.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/gaeulSopung/gaeulSopung-Bold.ttf") format("truetype");
+    font-display: swap;
+} 
+.gaeulSopung {
+    font-family: "gaeulSopung";
+}
+.gaeulSopung300 {
+    font-family: "gaeulSopung";
+    font-weight: 300;
+}
+.gaeulSopung700 {
+    font-family: "gaeulSopung";
+    font-weight: 700;
+}
+</pre>
